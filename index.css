@@ -12,7 +12,7 @@ div[class^="frame"] {
 /* Frame 1 */
 
     position: relative;
-    width: 960px;
+    width: 100vh;
     height: 100vh;
     left: 50%;
     margin: -10px 0 -10px -50vh;
