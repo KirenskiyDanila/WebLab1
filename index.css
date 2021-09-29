@@ -66,7 +66,6 @@ img {
 .photo {
     display: inline-block;
     width: 384px;
-    height: 512px;
     top: 45px;
 }
 
@@ -150,7 +149,7 @@ img {
 @media screen and (max-width: 450px) {
     .frame-title {
         text-align: left;
-        font-size: 22px;
+        font-size: 18px;
         line-height: 24px;
     }
     .text {
@@ -164,6 +163,9 @@ img {
     }
     .contacts-github {
         top: 0;
+    }
+    .photo {
+        width: 300px;
     }
 }
 
